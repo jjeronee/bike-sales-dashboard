@@ -35,12 +35,12 @@ The following skills were used in this project:
 
 ### Original dashboard created by Alex The Analyst
 
-![Original dashboard](Alex The Analyst's Dashboard.jpg)
+![Original dashboard](https://github.com/jjeronee/bike-sales-dashboard/blob/main/Alex%20The%20Analyst's%20dashboard.jpg)
 
 ### My draft dashboard
 
-![Draft dashboard](Draft dashboard.jpg)
+![Draft dashboard](https://github.com/jjeronee/bike-sales-dashboard/blob/main/Draft%20dashboard.jpg)
 
 ### My final dashboard
 
-![Final dashboard](Final dashboard.jpg)
+![Final dashboard](https://github.com/jjeronee/bike-sales-dashboard/blob/main/Final%20dashboard.jpg)
