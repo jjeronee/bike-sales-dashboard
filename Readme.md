@@ -35,12 +35,12 @@ The following skills were used in this project:
 
 ### Original dashboard created by Alex The Analyst
 
-![Original dashboard]()
+![Original dashboard](Alex The Analyst's Dashboard.jpg)
 
 ### My draft dashboard
 
-![Draft dashboard]()
+![Draft dashboard](Draft dashboard.jpg)
 
 ### My final dashboard
 
-![Final dashboard]()
+![Final dashboard](Final dashboard.jpg)
